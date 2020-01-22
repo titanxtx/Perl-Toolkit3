@@ -1,5 +1,5 @@
 # Perl-Toolkit3
-A toolkit to modify different data structures. Find matches, sort, map, grep, and loop through arrays and hashes including nested structures. It is a recursionless toolkit.
+A toolkit to manipulate and pull data from lists and hashes. Find matches, sort, map, grep, and loop through lists and hashes including nested structures. It is a recursionless toolkit.
 
 This is toolkit is experimental and is not finished. Test things out as you wish.
 
